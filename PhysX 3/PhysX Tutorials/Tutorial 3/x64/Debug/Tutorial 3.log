@@ -1,0 +1,11 @@
+﻿  Tutorial 3.cpp
+c:\users\kameron\desktop\sxyphysxy\physx 3\physx tutorials\tutorial 3\myphysicsengine.h(256): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+  VisualDebugger.cpp
+c:\users\kameron\desktop\sxyphysxy\physx 3\physx tutorials\tutorial 3\myphysicsengine.h(256): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+  PhysicsEngine.cpp
+  Renderer.cpp
+  GLFontRenderer.cpp
+  Camera.cpp
+  Generating Code...
+  Tutorial 3.vcxproj -> C:\Users\Kameron\Desktop\SxyPhysXy\PhysX 3\PhysX Tutorials\x64\Debug\Tutorial 3.exe
+  Tutorial 3.vcxproj -> C:\Users\Kameron\Desktop\SxyPhysXy\PhysX 3\PhysX Tutorials\x64\Debug\Tutorial 3.pdb (Partial PDB)

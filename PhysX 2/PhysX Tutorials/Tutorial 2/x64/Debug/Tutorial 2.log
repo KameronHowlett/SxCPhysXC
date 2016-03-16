@@ -1,0 +1,18 @@
+﻿  Tutorial 2.cpp
+c:\users\kameron\desktop\sxyphysxy\physx 2\physx tutorials\tutorial 2\myphysicsengine.h(89): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\kameron\desktop\sxyphysxy\physx 2\physx tutorials\tutorial 2\myphysicsengine.h(93): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\kameron\desktop\sxyphysxy\physx 2\physx tutorials\tutorial 2\myphysicsengine.h(97): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+  VisualDebugger.cpp
+c:\users\kameron\desktop\sxyphysxy\physx 2\physx tutorials\tutorial 2\myphysicsengine.h(89): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\kameron\desktop\sxyphysxy\physx 2\physx tutorials\tutorial 2\myphysicsengine.h(93): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\kameron\desktop\sxyphysxy\physx 2\physx tutorials\tutorial 2\myphysicsengine.h(97): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+  PhysicsEngine.cpp
+c:\users\kameron\desktop\sxyphysxy\physx 2\physx tutorials\tutorial 2\physicsengine.cpp(48): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\kameron\desktop\sxyphysxy\physx 2\physx tutorials\tutorial 2\physicsengine.cpp(49): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\kameron\desktop\sxyphysxy\physx 2\physx tutorials\tutorial 2\physicsengine.cpp(50): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+  Renderer.cpp
+  GLFontRenderer.cpp
+  Camera.cpp
+  Generating Code...
+  Tutorial 2.vcxproj -> C:\Users\Kameron\Desktop\SxyPhysXy\PhysX 2\PhysX Tutorials\x64\Debug\Tutorial 2.exe
+  Tutorial 2.vcxproj -> C:\Users\Kameron\Desktop\SxyPhysXy\PhysX 2\PhysX Tutorials\x64\Debug\Tutorial 2.pdb (Partial PDB)
